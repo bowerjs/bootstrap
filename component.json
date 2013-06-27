@@ -1,7 +1,7 @@
 {
     "name": "bootstrap",
     "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.  This is the version that should be available to bower.",
-    "version": "2.1.1",
+    "version": "2.3.2",
     "keywords": [
         "bootstrap",
         "css",
